@@ -7,11 +7,12 @@ url = "https://uselessfacts.jsph.pl/random.json?language=en"
 
 try:
     # API 호출
-    response = requests.get(url)
+    response = requests.get(url, timeout=10)
     response.raise_for_status()
+
     fact_data = response.json()
 
-    # 저장 파일 이름 (고정 파일명)
+    # 저장 파일 이름 (고정)
     output_file = "useless_fact.json"
 
     # JSON 저장
