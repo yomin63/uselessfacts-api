@@ -27,7 +27,7 @@ jobs:
 
       # 4. 스크립트 실행 (README 업데이트)
       - name: Run useless fact script
-        run: python scripts/useless_fact_readme.py
+        run: python fact.py
 
       # 5. 변경 내용 커밋 & 푸시
       - name: Commit and push changes
