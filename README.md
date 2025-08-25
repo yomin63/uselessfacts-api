@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Leonardo da Vinci could write with one hand while drawing with the other**
+💡 **Hot water is heavier than cold.**
 
 ---
-⏳ 마지막 업데이트: 2025-08-24 01:59 UTC
+⏳ 마지막 업데이트: 2025-08-25 01:53 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
