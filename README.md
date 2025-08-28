@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Iceland consumes more Coca-Cola per capita than any other nation.**
+💡 **The name of the girl on the statue of liberty is Mother of Exiles.**
 
 ---
-⏳ 마지막 업데이트: 2025-08-27 01:46 UTC
+⏳ 마지막 업데이트: 2025-08-28 01:45 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
