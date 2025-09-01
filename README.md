@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **A pregnant goldfish is called a twit.**
+💡 **The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  **
 
 ---
-⏳ 마지막 업데이트: 2025-08-31 01:50 UTC
+⏳ 마지막 업데이트: 2025-09-01 02:00 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
