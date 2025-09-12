@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.**
+💡 **In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.**
 
 ---
-⏳ 마지막 업데이트: 2025-09-11 01:43 UTC
+⏳ 마지막 업데이트: 2025-09-12 01:39 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
