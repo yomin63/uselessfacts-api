@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.**
+💡 **Coca-Cola was originally green.**
 
 ---
-⏳ 마지막 업데이트: 2025-09-12 01:39 UTC
+⏳ 마지막 업데이트: 2025-09-13 01:35 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
