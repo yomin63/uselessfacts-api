@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.**
+💡 **Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.**
 
 ---
-⏳ 마지막 업데이트: 2025-09-15 01:49 UTC
+⏳ 마지막 업데이트: 2025-09-16 01:41 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
