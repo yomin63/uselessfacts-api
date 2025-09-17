@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.**
+💡 **Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.**
 
 ---
-⏳ 마지막 업데이트: 2025-09-16 01:41 UTC
+⏳ 마지막 업데이트: 2025-09-17 01:40 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
