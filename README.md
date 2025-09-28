@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Daffy Duck`s middle name is "Dumas"**
+💡 **Czechs are the biggest consumers of beer per male in the world.**
 
 ---
-⏳ 마지막 업데이트: 2025-09-27 01:38 UTC
+⏳ 마지막 업데이트: 2025-09-28 01:51 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
