@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Rhode Island is the only state which the hammer throw is a legal high school sport.**
+💡 **During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.**
 
 ---
-⏳ 마지막 업데이트: 2025-10-11 01:39 UTC
+⏳ 마지막 업데이트: 2025-10-12 01:46 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
