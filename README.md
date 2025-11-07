@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Americans travel 1,144,721,000 miles by air every day**
+💡 **The Minneapolis phone book has 21 pages of Andersons.**
 
 ---
-⏳ 마지막 업데이트: 2025-11-06 01:51 UTC
+⏳ 마지막 업데이트: 2025-11-07 01:49 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
