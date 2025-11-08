@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The Minneapolis phone book has 21 pages of Andersons.**
+💡 **There are 1 million ants for every human in the world.**
 
 ---
-⏳ 마지막 업데이트: 2025-11-07 01:49 UTC
+⏳ 마지막 업데이트: 2025-11-08 01:44 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
