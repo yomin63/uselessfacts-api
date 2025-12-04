@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The buzz from an electric razor in America plays in the key of B flat; Key of G in England.**
+💡 **A 2" X 4" is really 1-1/2" by 3-1/2".**
 
 ---
-⏳ 마지막 업데이트: 2025-12-03 01:53 UTC
+⏳ 마지막 업데이트: 2025-12-04 01:55 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
