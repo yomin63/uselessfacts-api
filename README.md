@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The average shelf-life of a latex condom is about two years.**
+💡 **The U.S. Post Office handles 43 percent of the world’s mail.**
 
 ---
-⏳ 마지막 업데이트: 2025-12-08 01:55 UTC
+⏳ 마지막 업데이트: 2025-12-09 01:55 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
