@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **California has issued 6 drivers licenses to people named "Jesus Christ."**
+💡 **A 2" X 4" is really 1-1/2" by 3-1/2".**
 
 ---
-⏳ 마지막 업데이트: 2025-12-11 01:58 UTC
+⏳ 마지막 업데이트: 2025-12-12 01:57 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
