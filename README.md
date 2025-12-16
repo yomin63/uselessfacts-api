@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.**
+💡 **Your tongue is the only muscle in your body that is attached at only one end.**
 
 ---
-⏳ 마지막 업데이트: 2025-12-15 02:02 UTC
+⏳ 마지막 업데이트: 2025-12-16 01:58 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
