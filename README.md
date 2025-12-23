@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Beethoven dipped his head in cold water before he composed.**
+💡 **Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.**
 
 ---
-⏳ 마지막 업데이트: 2025-12-22 02:03 UTC
+⏳ 마지막 업데이트: 2025-12-23 01:58 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
