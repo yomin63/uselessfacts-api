@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.**
+💡 **Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).**
 
 ---
-⏳ 마지막 업데이트: 2025-12-23 01:58 UTC
+⏳ 마지막 업데이트: 2025-12-24 01:57 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
