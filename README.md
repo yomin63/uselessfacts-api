@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **There is an average of 61,000 people airborne over the US at any given moment.**
+💡 **More people are allergic to cow's milk than any other food.**
 
 ---
-⏳ 마지막 업데이트: 2025-12-27 01:56 UTC
+⏳ 마지막 업데이트: 2025-12-28 02:09 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
