@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Dueling is legal in Paraguay as long as both parties are registered blood donors.**
+💡 **Poland is the "stolen car capital of the world".**
 
 ---
-⏳ 마지막 업데이트: 2025-12-30 01:59 UTC
+⏳ 마지막 업데이트: 2025-12-31 02:00 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
