@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Most household dust is made of dead skin cells.**
+💡 **All polar bears are left-handed.**
 
 ---
-⏳ 마지막 업데이트: 2026-01-11 02:11 UTC
+⏳ 마지막 업데이트: 2026-01-12 02:07 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
