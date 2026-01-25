@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **If the population of China walked past you in single file, the line would never end because of the rate of reproduction.**
+💡 **Illinois has the highest number of personalized license plates than any other state.**
 
 ---
-⏳ 마지막 업데이트: 2026-01-24 01:59 UTC
+⏳ 마지막 업데이트: 2026-01-25 02:19 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
