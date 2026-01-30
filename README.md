@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Tehran is the most expensive city on earth.**
+💡 **Relative to size, the strongest muscle in the body is the tongue.**
 
 ---
-⏳ 마지막 업데이트: 2026-01-29 02:27 UTC
+⏳ 마지막 업데이트: 2026-01-30 02:27 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
