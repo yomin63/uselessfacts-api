@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Shakespeare invented the words “assassination” and “bump.”**
+💡 **If you keep a goldfish in the dark room, it will eventually turn white.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-08 02:53 UTC
+⏳ 마지막 업데이트: 2026-02-09 02:38 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
