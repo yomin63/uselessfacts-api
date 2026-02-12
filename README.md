@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Sugar was first added to chewing gum in 1869 by a dentist, William Semple.**
+💡 **On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-11 02:44 UTC
+⏳ 마지막 업데이트: 2026-02-12 02:39 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
