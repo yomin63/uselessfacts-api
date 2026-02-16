@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Shakespeare is quoted 33,150 times in the Oxford English dictionary.**
+💡 **Sharon Stone was the first Star Search spokes model.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-15 02:40 UTC
+⏳ 마지막 업데이트: 2026-02-16 02:35 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
