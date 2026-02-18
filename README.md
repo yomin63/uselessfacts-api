@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.**
+💡 **Frank Lloyd Wright's son invented Lincoln Logs.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-17 02:32 UTC
+⏳ 마지막 업데이트: 2026-02-18 02:35 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
