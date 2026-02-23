@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.**
+💡 **Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-22 02:35 UTC
+⏳ 마지막 업데이트: 2026-02-23 02:36 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
