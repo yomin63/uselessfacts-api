@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The most sensitive cluster of nerves is at the base of the spine.**
+💡 **Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.**
 
 ---
-⏳ 마지막 업데이트: 2026-02-27 02:28 UTC
+⏳ 마지막 업데이트: 2026-02-28 02:11 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
