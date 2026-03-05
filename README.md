@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.**
+💡 **The word Pennsylvania is misspelled on the Liberty Bell.**
 
 ---
-⏳ 마지막 업데이트: 2026-03-04 02:26 UTC
+⏳ 마지막 업데이트: 2026-03-05 02:29 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
