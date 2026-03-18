@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.**
+💡 **It’s estimated that at any one time around 0.7% of the world’s population is drunk.**
 
 ---
-⏳ 마지막 업데이트: 2026-03-17 02:31 UTC
+⏳ 마지막 업데이트: 2026-03-18 02:37 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
