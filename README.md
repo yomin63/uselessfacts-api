@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Half of all Americans live within 50 miles of their birthplace.**
+💡 **The highest per capita Jell-O comsumption in the US is Des Moines.**
 
 ---
-⏳ 마지막 업데이트: 2026-04-08 02:48 UTC
+⏳ 마지막 업데이트: 2026-04-09 02:42 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
