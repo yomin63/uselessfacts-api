@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **A `jiffy` is a unit of time for 1/100th of a second.**
+💡 **While in Alcatraz, Al Capone was inmate #85.**
 
 ---
-⏳ 마지막 업데이트: 2026-04-22 02:55 UTC
+⏳ 마지막 업데이트: 2026-04-23 03:17 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
