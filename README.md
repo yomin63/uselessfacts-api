@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **A giraffe can go without water longer than a camel.**
+💡 **5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.**
 
 ---
-⏳ 마지막 업데이트: 2026-05-03 03:38 UTC
+⏳ 마지막 업데이트: 2026-05-04 03:36 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
