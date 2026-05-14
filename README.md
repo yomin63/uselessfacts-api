@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **There are 1,575 steps from the ground floor to the top of the Empire State building.**
+💡 **Jupiter is bigger than all the other planets in our solar system combined.**
 
 ---
-⏳ 마지막 업데이트: 2026-05-13 03:47 UTC
+⏳ 마지막 업데이트: 2026-05-14 03:46 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
