@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Intelligent people have more zinc and copper in their hair.**
+💡 **The most popular first name in the world is Muhammad.**
 
 ---
-⏳ 마지막 업데이트: 2026-05-16 03:32 UTC
+⏳ 마지막 업데이트: 2026-05-17 03:51 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
