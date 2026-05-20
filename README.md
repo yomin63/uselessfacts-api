@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The "pound" key on your keyboard (#) is called an octotroph. **
+💡 **Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.**
 
 ---
-⏳ 마지막 업데이트: 2026-05-19 03:56 UTC
+⏳ 마지막 업데이트: 2026-05-20 03:57 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
