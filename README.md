@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!**
+💡 **All of the clocks in the movie "Pulp Fiction" are stuck on 4:20. **
 
 ---
-⏳ 마지막 업데이트: 2026-06-13 04:10 UTC
+⏳ 마지막 업데이트: 2026-06-14 04:27 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
