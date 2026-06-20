@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The most common name in Italy is Mario Rossi.**
+💡 **😅 오늘의 쓸모없는 지식을 가져오지 못했습니다.**
 
 ---
-⏳ 마지막 업데이트: 2026-06-19 04:49 UTC
+⏳ 마지막 업데이트: 2026-06-20 04:03 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
