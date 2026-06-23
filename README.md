@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.**
+💡 **Tehran is the most expensive city on earth.**
 
 ---
-⏳ 마지막 업데이트: 2026-06-22 04:51 UTC
+⏳ 마지막 업데이트: 2026-06-23 03:54 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
