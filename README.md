@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Sharon Stone was the first Star Search spokes model.**
+💡 **The plastic things on the end of shoelaces are called aglets.**
 
 ---
-⏳ 마지막 업데이트: 2026-07-06 03:56 UTC
+⏳ 마지막 업데이트: 2026-07-07 03:47 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
