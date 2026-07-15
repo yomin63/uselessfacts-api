@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **14% of all facts and statistics are made up and 27% of people know that fact.**
+💡 **Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.**
 
 ---
-⏳ 마지막 업데이트: 2026-07-14 02:46 UTC
+⏳ 마지막 업데이트: 2026-07-15 02:45 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
