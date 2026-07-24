@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Babies are most likely to be born on Tuesdays.**
+💡 **Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.**
 
 ---
-⏳ 마지막 업데이트: 2026-07-23 03:16 UTC
+⏳ 마지막 업데이트: 2026-07-24 02:55 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
