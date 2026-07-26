@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **A shark can detect one part of blood in 100 million parts of water.**
+💡 **Bats always turn left when exiting a cave.**
 
 ---
-⏳ 마지막 업데이트: 2026-07-25 02:55 UTC
+⏳ 마지막 업데이트: 2026-07-26 03:21 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
