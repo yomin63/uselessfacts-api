@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Men can read smaller print than women; women can hear better.**
+💡 **A standard slinky measures 87 feet when stretched out.**
 
 ---
-⏳ 마지막 업데이트: 2026-08-05 02:47 UTC
+⏳ 마지막 업데이트: 2026-08-06 02:50 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
