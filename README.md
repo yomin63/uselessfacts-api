@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **A standard slinky measures 87 feet when stretched out.**
+💡 **Beethoven dipped his head in cold water before he composed.**
 
 ---
-⏳ 마지막 업데이트: 2026-08-06 02:50 UTC
+⏳ 마지막 업데이트: 2026-08-07 02:49 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
