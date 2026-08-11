@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **It takes about 142.18 licks to reach the center of a Tootsie pop.**
+💡 **Women manage the money and pay the bills in  75% of all Americans households.**
 
 ---
-⏳ 마지막 업데이트: 2026-08-10 02:03 UTC
+⏳ 마지막 업데이트: 2026-08-11 01:58 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
