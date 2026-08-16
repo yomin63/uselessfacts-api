@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.**
+💡 **Jupiter is bigger than all the other planets in our solar system combined.**
 
 ---
-⏳ 마지막 업데이트: 2026-08-15 01:24 UTC
+⏳ 마지막 업데이트: 2026-08-16 01:35 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
