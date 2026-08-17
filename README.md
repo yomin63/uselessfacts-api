@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Jupiter is bigger than all the other planets in our solar system combined.**
+💡 **Tigers not only have striped fur, they have striped skin!**
 
 ---
-⏳ 마지막 업데이트: 2026-08-16 01:35 UTC
+⏳ 마지막 업데이트: 2026-08-17 01:26 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
