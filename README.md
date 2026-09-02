@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **The longest one-syllable word in the English language is "screeched." **
+💡 **Pinocchio is Italian for "pine head."**
 
 ---
-⏳ 마지막 업데이트: 2026-09-01 04:19 UTC
+⏳ 마지막 업데이트: 2026-09-02 03:42 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
