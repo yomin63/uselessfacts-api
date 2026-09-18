@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Deborah Winger did the voice of E.T.**
+💡 **The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  **
 
 ---
-⏳ 마지막 업데이트: 2026-09-17 04:10 UTC
+⏳ 마지막 업데이트: 2026-09-18 03:56 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
