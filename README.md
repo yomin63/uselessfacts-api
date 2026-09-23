@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.**
+💡 **Every time you lick a stamp, you're consuming 1/10 of a calorie.**
 
 ---
-⏳ 마지막 업데이트: 2026-09-22 04:04 UTC
+⏳ 마지막 업데이트: 2026-09-23 04:01 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
