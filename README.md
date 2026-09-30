@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Gary, Indiana is the murder capital of the U.S. - probably the world.**
+💡 **Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.**
 
 ---
-⏳ 마지막 업데이트: 2026-09-29 05:00 UTC
+⏳ 마지막 업데이트: 2026-09-30 04:47 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
