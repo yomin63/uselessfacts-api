@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **😅 오늘의 쓸모없는 지식을 가져오지 못했습니다.**
+💡 **Canada is the only country not to win a gold medal in the summer Olympic games while hosting.**
 
 ---
-⏳ 마지막 업데이트: 2026-10-03 04:32 UTC
+⏳ 마지막 업데이트: 2026-10-04 05:03 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
