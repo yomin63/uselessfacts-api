@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!**
+💡 **If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".**
 
 ---
-⏳ 마지막 업데이트: 2026-10-18 03:46 UTC
+⏳ 마지막 업데이트: 2026-10-19 03:55 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
