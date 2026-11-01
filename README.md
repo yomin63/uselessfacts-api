@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **One in every 9000 people is an albino.**
+💡 **Lithuania has the highest suicide rate in the world.**
 
 ---
-⏳ 마지막 업데이트: 2026-10-31 04:47 UTC
+⏳ 마지막 업데이트: 2026-11-01 05:10 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
