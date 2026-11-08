@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **More people speak English in China than the United States.**
+💡 **The cheetah is the only cat that can't retract its claws.**
 
 ---
-⏳ 마지막 업데이트: 2026-11-07 05:18 UTC
+⏳ 마지막 업데이트: 2026-11-08 05:15 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
