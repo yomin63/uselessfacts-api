@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **In The Empire Strikes Back there is a potato hidden in the asteroid field**
+💡 **An ostrich’s eye is bigger than its brain.**
 
 ---
-⏳ 마지막 업데이트: 2026-11-18 06:38 UTC
+⏳ 마지막 업데이트: 2026-11-19 06:40 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
