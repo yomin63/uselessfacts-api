@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Ancient Egyptian priests would pluck every hair from their bodies.**
+💡 **Humans are the only primates that don`t have pigment in the palms of their hands.**
 
 ---
-⏳ 마지막 업데이트: 2026-11-23 06:38 UTC
+⏳ 마지막 업데이트: 2026-11-24 09:06 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
