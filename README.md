@@ -1,8 +1,8 @@
 # 🪄 오늘의 쓸모없는 지식
 
-💡 **Ninety percent of all species that have become extinct have been birds.**
+💡 **The word "set" has more definitions than any other word in the English language.**
 
 ---
-⏳ 마지막 업데이트: 2026-11-27 07:31 UTC
+⏳ 마지막 업데이트: 2026-11-28 06:59 UTC
 
 Powered by [Useless Facts API](https://uselessfacts.jsph.pl/) · 자동화 봇
